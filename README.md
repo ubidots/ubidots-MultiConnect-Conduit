@@ -1,3 +1,7 @@
+    
+search: true
+---
+
 # MultiConnect Conduit
 
 <img class="imgBody" src ="/images/conduit.png" style="max-width:100%;display: block;" />
