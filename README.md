@@ -46,30 +46,30 @@ MultiConnect® Conduit™ is a programmable gateway that uses an open Linux deve
 ## Setting up Ethernet configuration
 
 1. Open an Internet browser. In the browser’s address field, type the default address for the device: http://192.168.2.1 when login page will appear type default user name (admin) and default password (admin).
-    <img class="imgBody" src ="/images/conduitLogIn.png" />
+    <img class="imgBody" src ="/images/conduitLogIn.png" style="max-width:100%;display: block;" />
 2. Go to **Setup** and click on **Network Interfaces**.
-    <img class="imgBody" src ="/images/conduitSetUp.png" />
+    <img class="imgBody" src ="/images/conduitSetUp.png" style="max-width:100%;display: block;"/>
 3. There press click on the pen of **eth0**.
-    <img class="imgBody" src ="/images/conduitEth0.png" />
+    <img class="imgBody" src ="/images/conduitEth0.png" style="max-width:100%;display: block;"/>
 4. Now configure Typre to **LAN** and  Mode to **DHCP Client**.
-    <img class="imgBody" src ="/images/conduitLAN.png" />
+    <img class="imgBody" src ="/images/conduitLAN.png" style="max-width:100%;display: block;"/>
 5. Go back to **Setup** and click on **Lora Network Server**.
-    <img class="imgBody" src ="/images/conduitSetLora.png" />
+    <img class="imgBody" src ="/images/conduitSetLora.png" style="max-width:100%;display: block;"/>
 6. Setup the **Lora network name**, **Frequency Sub-Band** and **Passphrase**.
-    <img class="imgBody" src ="/images/conduitSettingLora.png" />
+    <img class="imgBody" src ="/images/conduitSettingLora.png" style="max-width:100%;display: block;"/>
 7. Click on Apps label and press Node-RED.
-    <img class="imgBody" src ="/images/conduitInNode.png" />
+    <img class="imgBody" src ="/images/conduitInNode.png" style="max-width:100%;display: block;"/>
 
 ## Setting up Mobile configuration
 
 1. Open an Internet browser. In the browser’s address field, type the default address for the device: http://192.168.2.1 when login page will appear type default user name (admin) and default password (admin).
-    <img class="imgBody" src ="/images/conduitLogIn.png" />
+    <img class="imgBody" src ="/images/conduitLogIn.png" style="max-width:100%;display: block;"/>
 2. Go to **Cellular > Cellular Configuration** to display the Cellular Configuration window.
-    <img class="imgBody" src ="/images/conduitCellConfig.png" />
+    <img class="imgBody" src ="/images/conduitCellConfig.png" style="max-width:100%;display: block;"/>
 3. Check the Enabled box.
-    <img class="imgBody" src ="/images/conduiCellCheck.png" />
+    <img class="imgBody" src ="/images/conduiCellCheck.png" style="max-width:100%;display: block;"/>
 4. For GSM radios, enter the **APN** in the field located in the **Modem Configuration** section of the window.
-    <img class="imgBody" src ="/images/conduitCellAPN.png" />
+    <img class="imgBody" src ="/images/conduitCellAPN.png" style="max-width:100%;display: block;"/>
 5. Click Submit.
 
 ## Setting up Node-RED
