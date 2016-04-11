@@ -1,7 +1,7 @@
 # MultiConnect Conduit
 
 <div>
-    <a class="imgBody">
+    <a class="imgBody" style="display: block;">
         <img src="/images/conduit.png/">
     </a>
 </div>
