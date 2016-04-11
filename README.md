@@ -1,6 +1,6 @@
 # MultiConnect Conduit
 
-<img class="imgBody" src ="/images/conduit.png" style="max-width:100%; display: block;" />
+<img class="imgBody" src ="/images/conduit.png" style="display: block;" />
 
 MultiConnect® Conduit™ is a programmable gateway that uses an open Linux development environment to enable machine-to-machine (M2M) connectivity using various wireless interfaces. It also provides an online application store as a platform for developers to provision and manage their gateway and associated sensors and devices.
 
