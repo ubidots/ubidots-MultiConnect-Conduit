@@ -46,30 +46,30 @@ MultiConnect® Conduit™ is a programmable gateway that uses an open Linux deve
 ## Setting up Ethernet configuration
 
 1. Open an Internet browser. In the browser’s address field, type the default address for the device: http://192.168.2.1 when login page will appear type default user name (admin) and default password (admin).
-    <img class="imgBody" src ="/images/conduitLogIn.png" />
+    ![!Ups](/images/images/conduitLogIn.png)
 2. Go to **Setup** and click on **Network Interfaces**.
-    <img class="imgBody" src ="/images/conduitSetUp.png" />
+    ![!Ups](/images/images/conduitSetUp.png)
 3. There press click on the pen of **eth0**.
-    <img class="imgBody" src ="/images/conduitEth0.png" />
+    ![!Ups](/images/images/conduitEth0.png)
 4. Now configure Typre to **LAN** and  Mode to **DHCP Client**.
-    <img class="imgBody" src ="/images/conduitLAN.png" />
+    ![!Ups](/images/images/conduitLAN.png)
 5. Go back to **Setup** and click on **Lora Network Server**.
-    <img class="imgBody" src ="/images/conduitSetLora.png" />
+    ![!Ups](/images/images/conduitSetLora.png)
 6. Setup the **Lora network name**, **Frequency Sub-Band** and **Passphrase**.
-    <img class="imgBody" src ="/images/conduitSettingLora.png" />
+    ![!Ups](/images/images/conduitSettingLora.png)
 7. Click on Apps label and press Node-RED.
-    <img class="imgBody" src ="/images/conduitInNode.png" />
+    ![!Ups](/images/images/conduitInNode.png)
 
 ## Setting up Mobile configuration
 
 1. Open an Internet browser. In the browser’s address field, type the default address for the device: http://192.168.2.1 when login page will appear type default user name (admin) and default password (admin).
-    <img class="imgBody" src ="/images/conduitLogIn.png" />
+    ![!Ups](/images/images/conduitLogIn.png)
 2. Go to **Cellular > Cellular Configuration** to display the Cellular Configuration window.
-    <img class="imgBody" src ="/images/conduitCellConfig.png" />
+    ![!Ups](/images/images/conduitCellConfig.png)
 3. Check the Enabled box.
-    <img class="imgBody" src ="/images/conduiCellCheck.png" />
+    ![!Ups](/images/images/conduiCellCheck.png)
 4. For GSM radios, enter the **APN** in the field located in the **Modem Configuration** section of the window.
-    <img class="imgBody" src ="/images/conduitCellAPN.png" />
+    ![!Ups](/images/images/conduitCellAPN.png)
 5. Click Submit.
 
 ## Setting up Node-RED
