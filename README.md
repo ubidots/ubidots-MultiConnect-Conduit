@@ -1,10 +1,6 @@
-    
-search: true
----
-
 # MultiConnect Conduit
 
-<img class="imgBody" src ="/images/conduit.png" style="max-width:100%;display: block;" />
+<img class="imgBody" src ="/images/conduit.png" style="max-width:100%; display: block;" />
 
 MultiConnect® Conduit™ is a programmable gateway that uses an open Linux development environment to enable machine-to-machine (M2M) connectivity using various wireless interfaces. It also provides an online application store as a platform for developers to provision and manage their gateway and associated sensors and devices.
 
@@ -46,9 +42,9 @@ MultiConnect® Conduit™ is a programmable gateway that uses an open Linux deve
 ## Setting up Ethernet configuration
 
 1. Open an Internet browser. In the browser’s address field, type the default address for the device: http://192.168.2.1 when login page will appear type default user name (admin) and default password (admin).
-    <img class="imgBody" src ="/images/conduitLogIn.png" style="max-width:100%;display: block;" />
+    <img class="imgBody" src ="/images/conduitLogIn.png" style="max-width:100%; display: block;" />
 2. Go to **Setup** and click on **Network Interfaces**.
-    <img class="imgBody" src ="/images/conduitSetUp.png" style="max-width:100%;display: block;"/>
+    <img class="imgBody" src ="/images/conduitSetUp.png" style="max-width:100%; display: block;"/>
 3. There press click on the pen of **eth0**.
     <img class="imgBody" src ="/images/conduitEth0.png" style="max-width:100%;display: block;"/>
 4. Now configure Typre to **LAN** and  Mode to **DHCP Client**.
